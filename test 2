@@ -1,0 +1,15 @@
+Please generate an automated request for information to finalize a new contract. Ensure that we have gathered all required information pertaining to the creation of the contract. Specifically, we need to confirm the following information:
+
+1. Candidate's Name 
+2. Position 
+3. Salary 
+4. Contract Start Date  
+5. Contract End Date 
+6. Details of Benefits 
+7. List of Equipment to be issued to the candidate 
+8. Name of Reporting Manager 
+
+Review the email contents to ensure these details are provided. Only if all details are included, proceed with the contract creation. 
+Do not mention that we have all the necessary details if there are missing information that are not provided in the previous emails. Instead, reply to seek these missing details. Keep this follow-up mechanism active until all specific information is explicitly received in their final validated format. Only when all above-mentioned points are confirmed as completed and validated, then proceed with the contract creation.
+
+If any of the above information is included in the original email, add it in front of the information fields.
